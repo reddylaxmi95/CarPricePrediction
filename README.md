@@ -8,3 +8,5 @@ Optimizing RMSLE to generalize well on unseen data.
 Models Created: LinearRegression: RMSE: 1.37
                 RandomForestRegressor: RMSE: 0.873
                 ExtraTreeRegressor: RMSE: 0.8771
+                
+Achieved the all India rank of 60 for the project in the hackathon conducted by MachineHack
